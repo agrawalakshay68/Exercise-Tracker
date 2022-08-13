@@ -2,6 +2,8 @@
 
 [Link for the demo of Exercise Tracker](https://drive.google.com/drive/folders/1Yqv5WCIPTJSV883QBkEiWuzJOvD2Oepo)
 
+[Report Link](https://docs.google.com/document/d/18eIduYBbj_bCd3fcOpAd17Pcl2ji5Vx5TUyd1i38dWM/edit?usp=sharing)
+
 
 **Rehabilitation therapy**
 
